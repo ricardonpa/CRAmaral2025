@@ -1,0 +1,1 @@
+from pqam_cramaral2025.model import *
