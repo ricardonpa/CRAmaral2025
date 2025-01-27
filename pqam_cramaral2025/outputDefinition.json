@@ -1,0 +1,7 @@
+[
+    {
+        "name": "cr_Amaral2025",
+        "definition": "Creep Rate", 
+        "unit": "2d-array: (K, MPa)"
+    }
+]
